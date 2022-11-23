@@ -1,0 +1,141 @@
+.abc{
+    align-items: center;
+    text-align: center;
+    padding: 3px 0 3px 25px;  
+    
+    
+
+}
+.labelclass{
+    padding-left: 30px;
+   
+}
+.namecss{
+    width: 300px;
+    margin-inline: 50px;
+}
+.regcss{
+    width: 300px;
+    margin-inline: 59px;
+}
+.deptclass{
+    width: 300px;
+    margin-inline: 86px;
+}
+.yogclass{
+    width: 300px;
+    margin-inline: 36px;
+}
+.caclass{
+    width: 300px;
+    margin-inline: 65px;
+}
+.phoneclass{
+    width: 300px;
+    margin-inline: 96px;
+}
+.emailclass{
+    width: 300px;
+    margin-inline: 116px;
+}
+.pgdclass{
+    width: 300px;
+    margin-inline: 37px;
+}
+.cpclass{
+    width: 300px;
+    margin-inline: 49px;
+}
+.cpname{
+    width: 300px;
+    margin-inline: 51px;
+}
+button-box {
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  button {
+    margin-left: 600px;
+    display: inline-block;
+    width: 80%;
+    margin-top: 3.2em;
+    padding: 1em;
+    max-width: 220px;
+    font-size: .9em;
+    color: #f5f0f2;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: .15em;
+    background: rgb(31, 4, 130);
+    border: none;
+    outline: none;
+    border-radius: 5em;
+    box-shadow: 0 15px 20px -10px rgba(0, 0, 0, 0.3);
+    transition: 
+      color 0.1s, 
+      box-shadow 0.1s, 
+      transform 0.1s;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    box-shadow: 0 3px 5px -5px rgba(0, 0, 0, 0.3);
+    color: #6f6f6f;
+  }
+  .wardnamecss{
+    width: 300px;
+    margin-inline: 79px;
+}
+.relationclass{
+    width: 300px;
+    margin-inline: 75px;
+}
+.occupationclass{
+    width: 300px;
+    margin-inline: 82px;
+}
+.contactdetail
+{
+    width: 300px;
+    margin-inline: 54px;
+}
+.semcss
+{
+    width: 300px;
+    margin-inline: 74px;
+}
+.cef_yearcss{
+    
+    width: 300px;
+    margin-inline: 110px;
+}
+.cef_branchcss
+{
+    width: 300px;
+    margin-inline: 90px;
+}
+.cef_seccss
+{
+    width: 300px;
+    margin-inline: 85px;
+}
+.cef_subcss
+{       width: 300px;
+    margin-inline: 37px;
+}
+.cef_subcodecss
+{
+    width: 300px;
+    margin-inline: 44px;
+}
+.cef_Facultynamecss
+{
+    width: 300px;
+    margin-inline: 37px;
+}
+.cef_sessioncss
+{
+    width: 300px;
+    margin-inline: 75px;
+}

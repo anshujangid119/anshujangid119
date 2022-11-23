@@ -1,13 +1,9 @@
 import { Grid } from "@mui/material";
+import Navbar from "../Navbar";
 
 const Home = () => {
   return <>
-    <Grid container justifyContent='center'>
-      <Grid item sm={10}>
-        <h1>Home Page</h1>
-        <hr />
-      </Grid>
-    </Grid>
+   <Navbar />
   </>;
 };
 
